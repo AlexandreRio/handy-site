@@ -12,6 +12,10 @@ body {
   padding-left: 15px;
 }
 
+.justify {
+  text-align: justify;
+}
+
 .anchor {
   color: #1b3969;
 }
